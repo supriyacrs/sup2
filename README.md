@@ -1,3 +1,3 @@
 # sup2
 
-test1
+reversing number and finding duplicate code
