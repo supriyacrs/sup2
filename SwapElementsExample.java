@@ -16,7 +16,7 @@ public class SwapElementsExample {
                 System.out.println("Value of num2 is :" +num2);
                
                 //swap the value
-                swap(num1, num2);
+                //swap(num1, num2);
         }
  
         private static void swap(int num1, int num2) {
