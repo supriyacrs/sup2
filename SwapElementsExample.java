@@ -33,6 +33,14 @@ public class SwapElementsExample {
                num2 = temp;
                num2 = temp;
                num2 = temp;
+               num2 = temp;
+               num2 = temp;
+               num2 = temp;
+               num2 = temp;
+               num2 = temp;
+               num2 = temp;
+               num2 = temp;
+               num2 = temp;
                
                 System.out.println("After Swapping");
                 System.out.println("Value of num1 is :" + num1);
