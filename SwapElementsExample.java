@@ -24,6 +24,15 @@ public class SwapElementsExample {
                 int temp = num1;
                 num1 = num2;
                 num2 = temp;
+               /*duplicate code */
+               num2 = temp;
+               num2 = temp;
+               num2 = temp;
+               num2 = temp;
+               num2 = temp;
+               num2 = temp;
+               num2 = temp;
+               num2 = temp;
                
                 System.out.println("After Swapping");
                 System.out.println("Value of num1 is :" + num1);
