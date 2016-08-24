@@ -1,3 +1,4 @@
+package sup;
 import java.util.Random;
 import javax.swing.*;	//JFrame,JComponent,Timer
 import java.awt.*;		//Dimension,Image,Toolkit,Graphics,Container,Color,Graphics2D
