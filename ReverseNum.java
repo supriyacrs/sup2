@@ -1,3 +1,4 @@
+package sup;
 import java.util.Scanner;
 class ReverseNumberWhile
 {
