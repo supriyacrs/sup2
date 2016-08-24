@@ -3,7 +3,8 @@
         This Swap Numbers Java Example shows how to
         swap value of two numbers using java.
 */
- 
+
+package sup; 
 public class SwapElementsExample {
  
         public static void main(String[] args) {
