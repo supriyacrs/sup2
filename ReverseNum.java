@@ -50,5 +50,15 @@ class ReverseNumberWhile
       }
 
       System.out.println("Reverse of input number is: "+reversenum);
+       switch (num) { 
+        case 1: 
+        case 2: 
+        case 3: 
+        case 4: 
+        case 5: 
+          continue; 
+        default: 
+          return num; 
+      } 
    }
 }
